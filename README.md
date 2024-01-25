@@ -12,4 +12,4 @@
 
 ![Blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
- Sou estudante do curso de informática na EEEP Adolfo ferreira de Sousa
+ ##Sou estudante do curso de informática na EEEP Adolfo ferreira de Sousa
