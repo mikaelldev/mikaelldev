@@ -1,4 +1,4 @@
-###  Olá! eu sou Mikael lucas 👨‍💻
+###  Iae! eu sou Mikael lucas 👨‍💻
  [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mik4elxs/)
 
 
@@ -13,3 +13,5 @@
 
 
 ## Sou estudante do curso de informática na EEEP Adolfo ferreira de Sousa,na qual estou na 2° série
+
+###FUTURO DEV BACK_AND
